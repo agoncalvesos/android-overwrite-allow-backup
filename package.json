@@ -1,0 +1,14 @@
+{
+  "name": "android-overwrite-allow-backup",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "android-overwrite-allow-backup",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
